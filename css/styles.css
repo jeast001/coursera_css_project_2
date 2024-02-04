@@ -53,3 +53,13 @@ header img {
     background-color: cornflowerblue;
     text-transform: uppercase;
 }
+
+.neighborhood_img_div {
+    display: grid;
+    grid-template-columns: 40% 40%;
+    justify-content: center;
+}
+
+.neighborhood_img_div img {
+    width: 100%;
+}
