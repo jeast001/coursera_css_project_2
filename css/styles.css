@@ -36,3 +36,9 @@ h1 {
 p {
     line-height: 2.5;
 }
+
+header img {
+    width: 10%;
+    position: relative;
+    top: 20px;
+}
