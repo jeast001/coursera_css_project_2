@@ -62,3 +62,13 @@ header img {
 .neighborhood_img_div img {
     width: 100%;
 }
+
+.parks_img_div {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.parks_img_div img {
+    width: 15%;
+}
