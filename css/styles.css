@@ -42,3 +42,14 @@ header img {
     position: relative;
     top: 20px;
 }
+
+.list_flex {
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+.current {
+    background-color: cornflowerblue;
+    text-transform: uppercase;
+}
