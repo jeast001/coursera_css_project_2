@@ -9,6 +9,8 @@ header {
 
 nav {
     background-color: rgb(134, 199, 255);
+    display: inline-block;
+    width: 80%;
 }
 
 main {
