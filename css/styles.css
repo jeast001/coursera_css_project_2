@@ -1,0 +1,36 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 175%;
+}
+
+header {
+    background-color: cornflowerblue;
+}
+
+nav {
+    background-color: rgb(134, 199, 255);
+}
+
+main {
+    background-color: blanchedalmond;
+    font-size:  65%;
+}
+
+footer {
+    background-color: burlywood;
+}
+
+li {
+    display: inline-block;
+    width: 26%;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(3, 68, 117);
+}
+
+p {
+    line-height: 2.5;
+}
